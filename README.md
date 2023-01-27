@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 * [Тестирование ПО с Нуля до Специалиста](https://stepik.org/course/116411/syllabus)
 
 ## 🌱 I’m currently learning ...
+[SkillFactory] Тестировщик-автоматизатор на Python 
