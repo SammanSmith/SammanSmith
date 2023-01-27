@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 * [Введение в Linux](https://stepik.org/course/73/syllabus)
 * [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
 * [Тестирование ПО с Нуля до Специалиста](https://stepik.org/course/116411/syllabus)
+
+🌱 I’m currently learning ...
