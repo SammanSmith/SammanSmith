@@ -28,4 +28,11 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### My education
-[Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
+* [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
+* [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
+* ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)
+* [Инди-курс программирования на Python](https://stepik.org/course/63085/syllabus)
+* [Программное обеспечение компьютерных сетей](https://stepik.org/course/16244/syllabus)
+* [Введение в Linux](https://stepik.org/course/73/syllabus)
+* [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
+* [Тестирование ПО с Нуля до Специалиста](https://stepik.org/course/116411/syllabus)
