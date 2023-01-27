@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### My education
-![Веб-разработка для начинающих: HTML и CSS]
+![Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
