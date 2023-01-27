@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![CodeWars](https://www.codewars.com/users/Serj_Smith)
+
