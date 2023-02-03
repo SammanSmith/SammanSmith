@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&pause=1000&color=38C2FF&background=000000&center=true&vCenter=true&width=900&height=100&lines=Hi%2C+i%60m+Serj)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=38C2FF&background=000000&center=true&vCenter=true&width=900&lines=%F0%9F%98%84+Hi%2C+I%60m+Serj+%E2%9C%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=38C2FF&background=000000&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%98%84+Hi%2C+I%60m+Serj+%E2%9C%8C)](https://git.io/typing-svg)
 ## I`m a junior QA
 <!--
 **SammanSmith/SammanSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
