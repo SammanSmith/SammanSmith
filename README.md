@@ -1,19 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&pause=1000&color=38C2FF&background=000000&center=true&vCenter=true&width=900&height=100&lines=%F0%9F%98%84+Hi%2C+I%60m+SERG+%E2%9C%8C)](https://git.io/typing-svg)
 ## I`m QA Engineer
-<!--
-**SammanSmith/SammanSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## My stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,6 +10,7 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Swagger](https://img.shields.io/badge/Swagger-brightgreen?style=for-the-badge&logo=swagger&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
