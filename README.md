@@ -28,8 +28,8 @@
 * [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
 
 ## 🌱 I’m currently learning ...
-#### [SkillFactory] Тестировщик-автоматизатор на Python 
-#### [Stepik: Тестирование ПО с Нуля до Специалиста](https://stepik.org/course/116411/syllabus)
+#### [[SkillFactory] Тестировщик-автоматизатор на Python](https://skillfactory.ru/qa-engineer-python-testirovshchik-programmnogo-obespecheniya) 
+#### [[Stepik] Тестирование ПО с Нуля до Специалиста](https://stepik.org/course/116411/syllabus)
 
 ## My pratice
 [![codewars](https://www.codewars.com/users/Serj_Smith/badges/large)](https://www.codewars.com/users/Serj_Smith)
