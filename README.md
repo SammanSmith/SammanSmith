@@ -3,13 +3,13 @@
 ## ![Image Alt Text](img/qa.png) I`m QA Engeneer
 
 ## ![Image Alt Text](img/edu.png) My education
-* [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
-* [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
-* ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)
-* [Инди-курс программирования на Python](https://stepik.org/course/63085/syllabus)
-* [Программное обеспечение компьютерных сетей](https://stepik.org/course/16244/syllabus)
-* [Введение в Linux](https://stepik.org/course/73/syllabus)
-* [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
+> * [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
+> * [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
+> * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)
+> * [Инди-курс программирования на Python](https://stepik.org/course/63085/syllabus)
+> * [Программное обеспечение компьютерных сетей](https://stepik.org/course/16244/syllabus)
+> * [Введение в Linux](https://stepik.org/course/73/syllabus)
+> * [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
 
 ## ![Image Alt Text](img/online-learning.png) I’m currently learning ...
 #### [[SkillFactory] Тестировщик-автоматизатор на Python](https://skillfactory.ru/qa-engineer-python-testirovshchik-programmnogo-obespecheniya) 
