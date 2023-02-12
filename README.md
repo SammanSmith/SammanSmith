@@ -1,16 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rye&display=swap');
-
-h2 {
-    font-family: 'Pacifico', cursive;
-    font-family: 'Rye', cursive;
-    color: darkgrey;
-}
-
-</style>
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&size=80&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&repeat=false&width=900&height=200&lines=%F0%9F%98%84+Hi%2C+I%60m+SERG+%E2%9C%8C)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&size=26&duration=1&pause=1000&color=FFD700&repeat=false&width=900&lines=I%60m+QA+Engineer)](https://git.io/typing-svg) 
