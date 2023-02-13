@@ -2,7 +2,7 @@
 
 ## ![Image Alt Text](img/qa.png) 𝕀`𝕞 ℚ𝔸 𝔼𝕟𝕘𝕖𝕟𝕖𝕖𝕣
 
-## ![Image Alt Text](img/edu.png) My education
+## ![Image Alt Text](img/edu.png) 𝕄𝕪 𝕖𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟
 > * [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
 > * [JavaScript для начинающих](https://stepik.org/course/2223/syllabus)
 > * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)
@@ -11,11 +11,11 @@
 > * [Введение в Linux](https://stepik.org/course/73/syllabus)
 > * [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
 
-## ![Image Alt Text](img/online-learning.png) I’m currently learning ...
+## ![Image Alt Text](img/online-learning.png) 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ...
 #### [[SkillFactory] Тестировщик-автоматизатор на Python](https://skillfactory.ru/qa-engineer-python-testirovshchik-programmnogo-obespecheniya) 
 #### [[Stepik] Тестирование ПО с Нуля до Специалиста](https://stepik.org/course/116411/syllabus)
 
-## ![Image Alt Text](img/skills.png) Languages and tools
+## ![Image Alt Text](img/skills.png) 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕥𝕠𝕠𝕝𝕤
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,5 +32,5 @@
 <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## My pratice
+## 𝕄𝕪 𝕡𝕣𝕒𝕥𝕚𝕔𝕖
 [![codewars](https://www.codewars.com/users/Serj_Smith/badges/large)](https://www.codewars.com/users/Serj_Smith)
