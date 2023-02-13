@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rye&size=80&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&repeat=false&width=900&height=200&lines=%F0%9F%98%84+Hi%2C+I%60m+SERG+%E2%9C%8C)](https://git.io/typing-svg)
 
-## ![Image Alt Text](img/qa.png) 𝕀`𝕞 ℚ𝔸 𝔼𝕟𝕘𝕖𝕟𝕖𝕖𝕣
+## ![Image Alt Text](img/qa.png) 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖
+> I`m QA Engeneer
 
 ## ![Image Alt Text](img/edu.png) 𝕄𝕪 𝕖𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟
 > * [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
