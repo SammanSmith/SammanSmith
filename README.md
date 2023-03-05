@@ -11,10 +11,13 @@
 > * [Программное обеспечение компьютерных сетей](https://stepik.org/course/16244/syllabus)
 > * [Введение в Linux](https://stepik.org/course/73/syllabus)
 > * [Тестирование ПО: Postman для тестирования API](https://stepik.org/course/120679/syllabus)
+> * [[Stepik] Тестирование ПО с Нуля до Специалиста](https://stepik.org/course/116411/syllabus)
 
 ## ![Image Alt Text](img/online-learning.png) 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ...
 > #### [[SkillFactory] Тестировщик-автоматизатор на Python](https://skillfactory.ru/qa-engineer-python-testirovshchik-programmnogo-obespecheniya) 
-> #### [[Stepik] Тестирование ПО с Нуля до Специалиста](https://stepik.org/course/116411/syllabus)
+> #### [[Stepik] Вселенная тестирования, или Как стать тестировщиком](https://stepik.org/course/118842/syllabus)
+> #### [[Stepik] Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/course/16478/syllabus)
+> #### [[Stepik] Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575/syllabus)
 
 ## ![Image Alt Text](img/skills.png) 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕒𝕟𝕕 𝕥𝕠𝕠𝕝𝕤
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
